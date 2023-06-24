@@ -3035,7 +3035,7 @@ msgstr "缩小比例尺"
 
 #: src/canvasMenu.cpp:492
 msgid "Drop Mark"
-msgstr "防止标志"
+msgstr "标志"
 
 #: src/canvasMenu.cpp:494
 msgid "New Route..."
@@ -3652,7 +3652,7 @@ msgstr " 资源版本:  "
 
 #: src/chartdbs.cpp:1446
 msgid " Updated:  "
-msgstr " 跟新:  "
+msgstr " 更新:  "
 
 #: src/chartdbs.cpp:1674
 msgid "OpenCPN Chart Scan...."
